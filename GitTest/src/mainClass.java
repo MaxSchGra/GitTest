@@ -12,7 +12,7 @@ public class mainClass {
 		System.out.println("Add a Commit");
 		System.out.println("Add a Commit");
 		
-		
+		System.out.println("New GitTest");	
 
 	}
 
